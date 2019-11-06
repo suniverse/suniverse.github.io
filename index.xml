@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyu Li</title>
+    <link>https://suniverse.github.io/</link>
+      <atom:link href="https://suniverse.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinyu Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:41:43 -0500</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Xinyu Li</title>
+      <link>https://suniverse.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Eliminating Pressure for Incompressible MHD</title>
+      <link>https://suniverse.github.io/post/ichd/</link>
+      <pubDate>Tue, 05 Nov 2019 20:41:43 -0500</pubDate>
+      <guid>https://suniverse.github.io/post/ichd/</guid>
+      <description>&lt;p&gt;In the formulation of Elsasser&amp;rsquo;s variables $\mathbf{U} = \mathbf{v}+\mathbf{b}$ and $\mathbf{W} = \mathbf{v}-\mathbf{b}$,&lt;/p&gt;
+
+&lt;p&gt;\begin{eqnarray}
+    &amp;amp;&amp;amp;\partial_t \mathbf{U} = -(\mathbf{W}\cdot\nabla)\mathbf{U}-\nabla p,&lt;br /&gt;
+    &amp;amp;&amp;amp;\partial_t \mathbf{W} = -(\mathbf{U}\cdot\nabla)\mathbf{W}-\nabla p,&lt;br /&gt;
+    &amp;amp;&amp;amp;\nabla\cdot\mathbf{U} = \nabla\cdot\mathbf{W} = 0.
+\end{eqnarray}&lt;/p&gt;
+
+&lt;p&gt;For undisturbed fluid $\mathbf{U} = V_A$ and $\mathbf{W} =- V_A$. Introducing small purturbation $\mathbf{U} = V_A+\mathbf{u}$ and $\mathbf{W} = -V_A+\mathbf{w}$&lt;/p&gt;
+
+&lt;p&gt;\begin{eqnarray}
+    &amp;amp;&amp;amp;\partial_t\mathbf{u}-V_A\partial_z\mathbf{u} = -(\mathbf{w}\cdot\nabla)\mathbf{u}-\nabla p,&lt;br /&gt;
+    &amp;amp;&amp;amp;\partial_t\mathbf{w}+V_A\partial_z\mathbf{w} = -(\mathbf{u}\cdot\nabla)\mathbf{w}-\nabla p.&lt;br /&gt;
+\end{eqnarray}&lt;/p&gt;
+
+&lt;p&gt;Taking the divergence of above equations
+\begin{eqnarray}
+    \nabla p  = \nabla\cdot[(\mathbf{w}\cdot\nabla)\mathbf{u}].
+\end{eqnarray}&lt;/p&gt;
+
+&lt;p&gt;In the Fourier space
+\begin{eqnarray}
+    k^2 \tilde{p} = (\mathbf{k}\cdot\tilde{\mathbf{u}}(\mathbf{k}_1))(\mathbf{k}_1\cdot\tilde{\mathbf{w}}(\mathbf{k}_2))\delta(\mathbf{k}_1+\mathbf{k}_2-\mathbf{k}).
+\end{eqnarray}&lt;/p&gt;
+
+&lt;p&gt;Therefore the Fourier transformation of $\nabla p $ gives
+\begin{eqnarray}
+    \mathbf{k}p = (\hat{\mathbf{k}}\cdot\tilde{\mathbf{u}}(\mathbf{k}_1))(\mathbf{k}\cdot\tilde{\mathbf{w}}(\mathbf{k}_2))\delta(\mathbf{k}_1+\mathbf{k}_2-\mathbf{k}),
+\end{eqnarray}
+where the incompressible condition $\mathbf{k}_2\cdot\tilde{\mathbf{w}}(\mathbf{k}_2)=0$ is used.&lt;/p&gt;
+
+&lt;p&gt;Taking the Fourier transform of the perturbed equations and defining $\omega_k = V_A k_z$&lt;/p&gt;
+
+&lt;p&gt;\begin{eqnarray}
+    (\partial_t-i\omega_k)\tilde{\mathbf{u}}(\mathbf{k}) = -\frac{i}{8\pi}\int d^3 k_1 d^3 k_2\; (\tilde{\mathbf{u}}(\mathbf{k}_1)-\hat{\mathbf{k}}(\hat{\mathbf{k}}\cdot\tilde{\mathbf{u}}(\mathbf{k}_1))(\mathbf{k}\cdot\tilde{\mathbf{w}}(\mathbf{k}_2))\delta(\mathbf{k}_1+\mathbf{k}_2-\mathbf{k})
+\end{eqnarray}&lt;/p&gt;
+
+&lt;p&gt;\begin{eqnarray}
+    (\partial_t-i\omega_k)\tilde{\mathbf{w}}(\mathbf{k}) = -\frac{i}{8\pi}\int d^3 k_1 d^3 k_2\; (\tilde{\mathbf{w}}(\mathbf{k}_1)-\hat{\mathbf{k}}(\hat{\mathbf{k}}\cdot\tilde{\mathbf{w}}(\mathbf{k}_1))(\mathbf{k}\cdot\tilde{\mathbf{u}}(\mathbf{k}_2))\delta(\mathbf{k}_1+\mathbf{k}_2-\mathbf{k})
+\end{eqnarray}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnetic Fields in Relativistic MHD</title>
+      <link>https://suniverse.github.io/post/rmhd/</link>
+      <pubDate>Tue, 05 Nov 2019 20:41:43 -0500</pubDate>
+      <guid>https://suniverse.github.io/post/rmhd/</guid>
+      <description>&lt;p&gt;In relativistic MHD, the magnetic field 4-vector $b_{\mu}$
+and electric field $e_\mu$ in the fluid frame is defined through the 4-vector $u^{\mu}$ and EM 2-form $F_{\mu\nu}$.
+&lt;span  class=&#34;math&#34;&gt;\(\begin{eqnarray}
+b^\mu &amp;=&amp; u_{\nu}*F^{\mu\nu}\\
+e^\mu &amp;=&amp; u_{\nu}F^{\mu\nu}
+\end{eqnarray}\)&lt;/span&gt;
+where $*$ means the Hodge-dual of the 2-form.
+It is obvious that $u_{\mu}e^{\mu}=0$ and $u_{\mu}e^{\mu}=0$.&lt;/p&gt;
+
+&lt;p&gt;MHD condition requires that &lt;span  class=&#34;math&#34;&gt;\(e^{\mu}=0=u_{\nu}F^{\mu\nu}\)&lt;/span&gt;.
+Using the antisymmetric tensor, we have
+&lt;span  class=&#34;math&#34;&gt;\(\begin{equation}
+b^{\mu} = \frac{1}{2}\epsilon^{\mu\nu\kappa\lambda}u_{\nu}F_{\lambda\kappa}.
+\end{equation}\)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Contract with &lt;span  class=&#34;math&#34;&gt;\(\epsilon_{\mu\alpha\beta\gamma}\)&lt;/span&gt; on both sides, and using the equality from (3.50h) Misner, Thorn, Wheeler
+&lt;span  class=&#34;math&#34;&gt;\(\begin{equation}
+\delta^{\nu\kappa\lambda}_{\alpha\beta\gamma} = -\epsilon^{\mu\nu\kappa\lambda}\epsilon_{\mu\alpha\beta\gamma}.
+\end{equation}\)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\(\delta^{\nu\kappa\lambda}_{\alpha\beta\gamma} \)&lt;/span&gt; takes the value &lt;span  class=&#34;math&#34;&gt;\(1\)&lt;/span&gt; if &lt;span  class=&#34;math&#34;&gt;\(\nu\kappa\lambda\)&lt;/span&gt; is an even permutation of &lt;span  class=&#34;math&#34;&gt;\({\alpha\beta\gamma}\)&lt;/span&gt;, and &lt;span  class=&#34;math&#34;&gt;\(-1\)&lt;/span&gt; for odd permutation, &lt;span  class=&#34;math&#34;&gt;\(0\)&lt;/span&gt; otherwise.&lt;/p&gt;
+
+&lt;p&gt;Hence,
+&lt;span  class=&#34;math&#34;&gt;\(\begin{equation}
+\epsilon_{\mu\alpha\beta\gamma}b^{\mu} = -\frac{1}{2}\delta^{\nu\kappa\lambda}_{\alpha\beta\gamma}u_{\nu}F_{\lambda\kappa}.
+\end{equation}\)&lt;/span&gt;
+Now contract both sides with &lt;span  class=&#34;math&#34;&gt;\(u^{\alpha}\)&lt;/span&gt;, and using the fact that &lt;span  class=&#34;math&#34;&gt;\(u^{\mu}u_{\mu}=-1\)&lt;/span&gt;,&lt;span  class=&#34;math&#34;&gt;\(u_{\nu}F^{\mu\nu}=0\)&lt;/span&gt;, only nonzero term on the right hand side come from &lt;span  class=&#34;math&#34;&gt;\(\alpha=\nu\)&lt;/span&gt;, therefore
+&lt;span  class=&#34;math&#34;&gt;\(\begin{equation}
+F_{\beta\gamma}=\epsilon_{\beta\gamma\alpha\mu}u^{\alpha}b^{\mu}.
+\end{equation}\)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{eqnarray}
+*F^{\mu\nu}&amp;=&amp;\frac{1}{2}\epsilon^{\beta\gamma\mu\nu}\epsilon_{\beta\gamma\alpha\rho}u^{\alpha}b^{\rho}\\
+&amp;=&amp;-\delta^{\mu\nu}_{\alpha\rho}u^{\alpha}b^{\rho}\\
+&amp;=&amp;-(\delta^{\mu}_{\alpha}\delta^{\nu}_{\rho}-\delta^{\nu}_{\alpha}\delta^{\mu}_{\rho})u^{\alpha}b^{\rho}\\
+&amp;=&amp;b^{\mu}u^{\nu}-b^{\nu}u^{\mu}
+\end{eqnarray}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;There might be a difference in sign in the last expression which does not matter.
+The Maxwell &lt;span  class=&#34;math&#34;&gt;\(*F^{\mu\nu}_{;\nu}=0\)&lt;/span&gt; is not affected by a minus sign on both sides.
+The fluid equation &lt;span  class=&#34;math&#34;&gt;\(T^{\mu\nu}_{;\nu}=0\)&lt;/span&gt;.
+&lt;span  class=&#34;math&#34;&gt;\(\begin{equation}
+T^{\mu\nu}_{EM} = F^{\mu\alpha}F_{\nu\alpha}-\frac{1}{4}g^{\mu\nu}F_{\alpha\beta}F^{\alpha\beta}
+\end{equation}\)&lt;/span&gt;
+is quadratic in &lt;span  class=&#34;math&#34;&gt;\(F^{\mu\nu}\)&lt;/span&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rmhd</title>
+      <link>https://suniverse.github.io/project/rmhd/</link>
+      <pubDate>Tue, 05 Nov 2019 20:39:39 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/rmhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Dark Matter</title>
+      <link>https://suniverse.github.io/project/fdm/</link>
+      <pubDate>Tue, 05 Nov 2019 20:38:39 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/fdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar</title>
+      <link>https://suniverse.github.io/project/magnetar/</link>
+      <pubDate>Tue, 05 Nov 2019 20:38:33 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/magnetar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6)</title>
+      <link>https://suniverse.github.io/publication/2019-joss-4-1636-b/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-joss-4-1636-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissipation of Alfvén Waves in Relativistic Magnetospheres of Magnetars</title>
+      <link>https://suniverse.github.io/publication/2019-ap-j-881-13-l/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-ap-j-881-13-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black hole hair from scalar dark matter</title>
+      <link>https://suniverse.github.io/publication/2019-jcap-06-038-h/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-jcap-06-038-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and perturbative computations of the fuzzy dark matter model</title>
+      <link>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar Heating</title>
+      <link>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar Outbursts from Avalanches of Hall Waves and Crustal Failures</title>
+      <link>https://suniverse.github.io/publication/2016-ap-j-833-189-l/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2016-ap-j-833-189-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastic Damping of Alfvén Waves in Magnetar Flares and Delayed Afterglow Emission</title>
+      <link>https://suniverse.github.io/publication/2015-ap-j-815-25-l/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2015-ap-j-815-25-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational effects of condensate dark matter on compact stellar objects</title>
+      <link>https://suniverse.github.io/publication/2012-jcap-10-031-l/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2012-jcap-10-031-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Condensate dark matter stars</title>
+      <link>https://suniverse.github.io/publication/2012-jcap-06-001-l/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2012-jcap-06-001-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lam Hui | Xinyu Li</title>
+    <link>https://suniverse.github.io/authors/lam-hui/</link>
+      <atom:link href="https://suniverse.github.io/authors/lam-hui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lam Hui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Lam Hui</title>
+      <link>https://suniverse.github.io/authors/lam-hui/</link>
+    </image>
+    
+    <item>
+      <title>Black hole hair from scalar dark matter</title>
+      <link>https://suniverse.github.io/publication/2019-jcap-06-038-h/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-jcap-06-038-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and perturbative computations of the fuzzy dark matter model</title>
+      <link>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

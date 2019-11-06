@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Cosmology and Extragalactic Astrophysics | Xinyu Li</title>
+    <link>https://suniverse.github.io/tags/astrophysics-cosmology-and-extragalactic-astrophysics/</link>
+      <atom:link href="https://suniverse.github.io/tags/astrophysics-cosmology-and-extragalactic-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - Cosmology and Extragalactic Astrophysics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Astrophysics - Cosmology and Extragalactic Astrophysics</title>
+      <link>https://suniverse.github.io/tags/astrophysics-cosmology-and-extragalactic-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>Gravitational effects of condensate dark matter on compact stellar objects</title>
+      <link>https://suniverse.github.io/publication/2012-jcap-10-031-l/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2012-jcap-10-031-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Condensate dark matter stars</title>
+      <link>https://suniverse.github.io/publication/2012-jcap-06-001-l/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2012-jcap-06-001-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

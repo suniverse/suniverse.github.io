@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei M. Beloborodov | Xinyu Li</title>
+    <link>https://suniverse.github.io/authors/andrei-m.-beloborodov/</link>
+      <atom:link href="https://suniverse.github.io/authors/andrei-m.-beloborodov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei M. Beloborodov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Andrei M. Beloborodov</title>
+      <link>https://suniverse.github.io/authors/andrei-m.-beloborodov/</link>
+    </image>
+    
+    <item>
+      <title>Dissipation of Alfvén Waves in Relativistic Magnetospheres of Magnetars</title>
+      <link>https://suniverse.github.io/publication/2019-ap-j-881-13-l/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-ap-j-881-13-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar Heating</title>
+      <link>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar Outbursts from Avalanches of Hall Waves and Crustal Failures</title>
+      <link>https://suniverse.github.io/publication/2016-ap-j-833-189-l/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2016-ap-j-833-189-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastic Damping of Alfvén Waves in Magnetar Flares and Delayed Afterglow Emission</title>
+      <link>https://suniverse.github.io/publication/2015-ap-j-815-25-l/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2015-ap-j-815-25-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

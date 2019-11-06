@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Xinyu Li</title>
+    <link>https://suniverse.github.io/project/</link>
+      <atom:link href="https://suniverse.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:39:39 -0500</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://suniverse.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Rmhd</title>
+      <link>https://suniverse.github.io/project/rmhd/</link>
+      <pubDate>Tue, 05 Nov 2019 20:39:39 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/rmhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Dark Matter</title>
+      <link>https://suniverse.github.io/project/fdm/</link>
+      <pubDate>Tue, 05 Nov 2019 20:38:39 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/fdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetar</title>
+      <link>https://suniverse.github.io/project/magnetar/</link>
+      <pubDate>Tue, 05 Nov 2019 20:38:33 -0500</pubDate>
+      <guid>https://suniverse.github.io/project/magnetar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

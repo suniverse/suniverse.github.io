@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magnetohydrodynamics: MHD | Xinyu Li</title>
+    <link>https://suniverse.github.io/tags/magnetohydrodynamics-mhd/</link>
+      <atom:link href="https://suniverse.github.io/tags/magnetohydrodynamics-mhd/index.xml" rel="self" type="application/rss+xml" />
+    <description>magnetohydrodynamics: MHD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>magnetohydrodynamics: MHD</title>
+      <link>https://suniverse.github.io/tags/magnetohydrodynamics-mhd/</link>
+    </image>
+    
+    <item>
+      <title>Magnetar Heating</title>
+      <link>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2016-ap-j-833-261-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Energy Physics - Phenomenology | Xinyu Li</title>
+    <link>https://suniverse.github.io/tags/high-energy-physics-phenomenology/</link>
+      <atom:link href="https://suniverse.github.io/tags/high-energy-physics-phenomenology/index.xml" rel="self" type="application/rss+xml" />
+    <description>High Energy Physics - Phenomenology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>High Energy Physics - Phenomenology</title>
+      <link>https://suniverse.github.io/tags/high-energy-physics-phenomenology/</link>
+    </image>
+    
+    <item>
+      <title>Numerical and perturbative computations of the fuzzy dark matter model</title>
+      <link>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2019-ph-rv-d-99-f-3509-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
