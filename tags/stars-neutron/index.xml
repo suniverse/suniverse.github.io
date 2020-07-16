@@ -5,12 +5,20 @@
     <link>https://suniverse.github.io/tags/stars-neutron/</link>
       <atom:link href="https://suniverse.github.io/tags/stars-neutron/index.xml" rel="self" type="application/rss+xml" />
     <description>stars: neutron</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://suniverse.github.io/img/icon-192.png</url>
       <title>stars: neutron</title>
       <link>https://suniverse.github.io/tags/stars-neutron/</link>
     </image>
+    
+    <item>
+      <title>Simulation of a compact object with outflows moving through a gaseous background</title>
+      <link>https://suniverse.github.io/publication/2020-mnras-494-2327-l/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2020-mnras-494-2327-l/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dissipation of Alfvén Waves in Relativistic Magnetospheres of Magnetars</title>

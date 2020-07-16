@@ -5,12 +5,116 @@
     <link>https://suniverse.github.io/authors/</link>
       <atom:link href="https://suniverse.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://suniverse.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://suniverse.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Austin Joyce</title>
+      <link>https://suniverse.github.io/authors/austin-joyce/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/austin-joyce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher D. Matzner</title>
+      <link>https://suniverse.github.io/authors/christopher-d.-matzner/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/christopher-d.-matzner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lam Hui</title>
+      <link>https://suniverse.github.io/authors/lam-hui/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/lam-hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Landry</title>
+      <link>https://suniverse.github.io/authors/michael-j.-landry/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/michael-j.-landry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Chang</title>
+      <link>https://suniverse.github.io/authors/philip-chang/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/philip-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip J. Armitage</title>
+      <link>https://suniverse.github.io/authors/philip-j.-armitage/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/philip-j.-armitage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyu Li</title>
+      <link>https://suniverse.github.io/authors/xinyu-li/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/xinyu-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuri Levin</title>
+      <link>https://suniverse.github.io/authors/yuri-levin/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/yuri-levin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.~Y. Hui</title>
+      <link>https://suniverse.github.io/authors/c.~y.-hui/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/c.~y.-hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.~O. Chernyshov</title>
+      <link>https://suniverse.github.io/authors/d.~o.-chernyshov/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/d.~o.-chernyshov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F.~Y. Wang</title>
+      <link>https://suniverse.github.io/authors/f.~y.-wang/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/f.~y.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G.~Q. Zhang</title>
+      <link>https://suniverse.github.io/authors/g.~q.-zhang/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/g.~q.-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K.~S. Cheng</title>
+      <link>https://suniverse.github.io/authors/k.~s.-cheng/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/authors/k.~s.-cheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alex Razoumov</title>
@@ -429,14 +533,6 @@
     </item>
     
     <item>
-      <title>Xinyu Li</title>
-      <link>https://suniverse.github.io/authors/xinyu-li/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://suniverse.github.io/authors/xinyu-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yuan Li</title>
       <link>https://suniverse.github.io/authors/yuan-li/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -477,14 +573,6 @@
     </item>
     
     <item>
-      <title>Lam Hui</title>
-      <link>https://suniverse.github.io/authors/lam-hui/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://suniverse.github.io/authors/lam-hui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Luca Santoni</title>
       <link>https://suniverse.github.io/authors/luca-santoni/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -505,30 +593,6 @@
       <link>https://suniverse.github.io/authors/greg-l.-bryan/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://suniverse.github.io/authors/greg-l.-bryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuri Levin</title>
-      <link>https://suniverse.github.io/authors/yuri-levin/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://suniverse.github.io/authors/yuri-levin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F.~Y. Wang</title>
-      <link>https://suniverse.github.io/authors/f.~y.-wang/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://suniverse.github.io/authors/f.~y.-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K.~S. Cheng</title>
-      <link>https://suniverse.github.io/authors/k.~s.-cheng/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://suniverse.github.io/authors/k.~s.-cheng/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher D. Matzner | Xinyu Li</title>
+    <link>https://suniverse.github.io/authors/christopher-d.-matzner/</link>
+      <atom:link href="https://suniverse.github.io/authors/christopher-d.-matzner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher D. Matzner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://suniverse.github.io/img/icon-192.png</url>
+      <title>Christopher D. Matzner</title>
+      <link>https://suniverse.github.io/authors/christopher-d.-matzner/</link>
+    </image>
+    
+    <item>
+      <title>Simulation of a compact object with outflows moving through a gaseous background</title>
+      <link>https://suniverse.github.io/publication/2020-mnras-494-2327-l/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://suniverse.github.io/publication/2020-mnras-494-2327-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
