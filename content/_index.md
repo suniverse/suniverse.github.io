@@ -42,11 +42,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a theoretical physicist, eager to learn about the laws of nature. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply various quantitative methods to comprehensively investigate how the fundamental physics laws that governs the motion of subatomic particles can shape our universe.
 
-        Please reach out to collaborate 😃
+        I write code to reproduce the cosmos on huge computer clusters ---- a world model not driven by data, but from physics.
+
+        I am curious to learn and explore the world beyond my main research area. How to build world model from physics for AI? How patterns merge in complex systems. 
+
+        Please feel free if you would like to chat and collaborate 😃
     design:
       columns: '1'
   - block: collection
