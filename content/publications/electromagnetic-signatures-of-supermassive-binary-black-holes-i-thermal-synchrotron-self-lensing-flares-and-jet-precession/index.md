@@ -60,10 +60,10 @@ status: review
 
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="horizontal.mp4" type="video/mp4">  
 </video>
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="vertical.mp4" type="video/mp4">
 </video>

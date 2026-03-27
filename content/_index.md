@@ -48,7 +48,7 @@ sections:
 
         I write code to reproduce the cosmos on huge computer clusters ---- a world model not driven by data, but from physics.
 
-        I am curious to learn and explore the world beyond my main research area. How to build world model from physics for AI? How patterns merge in complex systems. 
+        I am curious to learn and explore the world beyond my main research area. How to build world model from physics for AI? How patterns merge in complex systems? 
 
         Please feel free if you would like to chat and collaborate 😃
     design:
