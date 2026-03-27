@@ -35,22 +35,22 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a theoretical physicist, eager to learn about the laws of nature. 
+        I am a **theoretical physicist**, eager to learn about the **laws of nature**. 
 
-        I apply various quantitative methods to comprehensively investigate how the fundamental physics laws that governs the motion of subatomic particles can shape our universe.
+        I apply various quantitative methods to comprehensively investigate how **fundamental physics laws that governs the motion of subatomic particles can shape our universe**.
 
-        I write code to reproduce the cosmos on huge computer clusters ---- a world model not driven by data, but from physics.
+        I write code to reproduce the cosmos on huge computer clusters ---- **a world model not driven by data, but from physics**.
 
-        I am curious to learn and explore the world beyond my main research area. How to build world model from physics for AI? How patterns merge in complex systems? 
+        I am curious to learn and explore the world beyond my main research area. **How to build world model from physics for AI? How patterns merge in complex systems?** 
 
-        Please feel free if you would like to chat and collaborate 😃
+        Please feel free to contact me if you would like to chat and collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -63,7 +63,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
@@ -82,11 +82,12 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: article-grid
+      columns: 3
   - block: collection
     id: news
     content:
-      title: Posts
+      title: Blog
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -108,7 +109,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: article-grid
+      column: 3
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
