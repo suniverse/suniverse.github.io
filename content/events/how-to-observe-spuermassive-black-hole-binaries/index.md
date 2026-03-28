@@ -22,7 +22,7 @@ featured: true
 links:
   - name: Slides
     icon: document
-    url: /events/how-to-observe-supermassive-black-hole-binaries/binary.pdf
+    url: /events/how-to-observe-spuermassive-black-hole-binaries/binary.pdf
 image:
   caption: Optional image credit (Markdown supported)
   focal_point: Center
