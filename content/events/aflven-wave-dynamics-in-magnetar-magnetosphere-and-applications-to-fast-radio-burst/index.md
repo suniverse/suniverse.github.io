@@ -1,6 +1,5 @@
 ---
-title: Aflven wave dynamics in magnetar magnetosphere and applications to Fast
-  Radio Burst
+title: Aflven wave dynamics in magnetar magnetosphere and applications to Fast Radio Burst
 date: 2025-06-10T12:20:17.000Z
 draft: false
 event_name: FRB 2025
@@ -29,8 +28,10 @@ links:
     icon: document
     url: /events/aflven-wave-dynamics-in-magnetar-magnetosphere-and-applications-to-fast-radio-burst/alfven_waves.pdf
 slides: ""
-projects: [Neutron Star]
-
+projects:
+  - Neutron Star
+event_start: 2025-06-10T12:20:17.000Z
 ---
+
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
