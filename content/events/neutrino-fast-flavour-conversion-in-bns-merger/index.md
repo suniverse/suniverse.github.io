@@ -28,7 +28,8 @@ links:
     url: /events/neutrino-fast-flavour-conversion-in-bns-merger/neutrino.pdf
 slides: ""
 projects: []
-
+event_start: 2021-03-29T15:42:17.000Z
 ---
+
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
