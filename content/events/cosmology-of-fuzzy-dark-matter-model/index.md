@@ -28,8 +28,10 @@ links:
     icon: document
     url: /events/cosmology-of-fuzzy-dark-matter-model/fdm.pdf
 slides: ""
-projects: [Fuzzy Dark Matter]
-
+projects:
+  - Fuzzy Dark Matter
+event_start: 2023-12-15
 ---
+
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
