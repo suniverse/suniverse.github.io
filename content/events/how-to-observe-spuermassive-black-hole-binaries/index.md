@@ -29,7 +29,8 @@ image:
 slides: ""
 projects:
   - Black Hole
-
+event_start: 2026-01-13T10:36:17.000Z
 ---
+
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
