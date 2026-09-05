@@ -15,7 +15,7 @@ hugoblox:
   typography:
     font: sans
     size: md
-    pack: academic
+    pack: modern
   layout:
     radius: md
     spacing: comfortable
@@ -44,4 +44,3 @@ hugoblox:
   search:
     enable: true
   css_engine: postcss
-
