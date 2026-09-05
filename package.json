@@ -11,9 +11,19 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
+    "@tailwindcss/node": "^4.3.3",
     "@tailwindcss/typography": "^0.5.10",
+    "lightningcss": "^1.33.0",
     "pagefind": "^1.4.0",
-    "preact": "^10.27.2",
-    "tailwindcss": "^4.1.12"
+    "preact": "^10.27.2"
+  },
+  "workspaces": [
+    "packages/hugoautogen"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.5.5",
+    "postcss": "^8.5.28",
+    "postcss-cli": "^12.0.0",
+    "tailwindcss": "^4.3.3"
   }
 }

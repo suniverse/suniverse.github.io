@@ -43,3 +43,5 @@ hugoblox:
       style: chicago
   search:
     enable: true
+  css_engine: postcss
+
