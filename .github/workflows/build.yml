@@ -2,6 +2,8 @@ name: Build
 
 env:
   NODE_VERSION: '20'
+  HUGO_VERSION: 'latest'
+
 
 on:
   # Standalone trigger for PR validation
