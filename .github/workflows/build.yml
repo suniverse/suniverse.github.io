@@ -4,7 +4,7 @@ env:
   NODE_VERSION: '20'
   HUGO_VERSION: 'latest'
 
-name: Setup Hugo
+- name: Setup Hugo
   uses: peaceiris/actions-hugo@v3
   with:
     hugo-version: 'latest'
