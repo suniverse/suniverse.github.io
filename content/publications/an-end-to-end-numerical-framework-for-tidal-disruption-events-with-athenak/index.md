@@ -52,7 +52,7 @@ hugoblox:
     arxiv: "2608.29365"
 links:
   - type: link
-    url: "https://scixplorer.org/abs/2026arXiv260829365J/abstract"
+    url: "https://scixplorer.org/abs/2026arXiv260937859J/abstract"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
   focal_point: ""
