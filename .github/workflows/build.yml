@@ -4,12 +4,6 @@ env:
   NODE_VERSION: '20'
   HUGO_VERSION: 'latest'
 
-name: Setup Hugo
-  uses: peaceiris/actions-hugo@v3
-  with:
-    hugo-version: 'latest'
-    extended: true
-
 on:
   # Standalone trigger for PR validation
   pull_request:
