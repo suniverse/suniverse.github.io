@@ -1,0 +1,7 @@
+# Keep the current root-only dependency installation.
+packages:
+  - '.'
+
+# Required by Tailwind's file watcher during dependency installation.
+allowBuilds:
+  '@parcel/watcher': true
