@@ -34,3 +34,4 @@ slides: ""
 status: published
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
+{{< video src="alfven.mp4" controls="yes" >}}

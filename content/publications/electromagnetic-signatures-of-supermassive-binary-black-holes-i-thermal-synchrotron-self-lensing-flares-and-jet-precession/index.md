@@ -34,10 +34,7 @@ slides: ""
 status: published
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
-<video width="640" height="480" controls>
-  <source src="horizontal.mp4" type="video/mp4">  
-</video>
+{{< video src="BBH_lensing_horizontal.mp4" controls="yes" >}}
 
-<video width="640" height="480" controls>
-  <source src="vertical.mp4" type="video/mp4">
-</video>
+
+{{< video src="BBH_lensing_vertical.mp4" controls="yes" >}}

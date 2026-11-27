@@ -14,8 +14,8 @@ date: 2026-09-30T12:14:00.429Z
 publishDate: 2026-09-30T12:14:00.429Z
 publication_types:
   - article-journal
-publication: arXiv
-publication_short: ""
+publication: "*The Astrophysical Journal Supplement Series*"
+publication_short: ApJS
 abstract: >
   In a tidal disruption event (TDE), a star is torn apart by the tidal field of
   a black hole (BH), and its bound debris returns over many orbits to form an
@@ -46,7 +46,7 @@ summary: null
 tags:
   - Research
   - Black Hole
-featured: false
+featured: true
 hugoblox:
   ids:
     arxiv: "2608.29365"
@@ -64,3 +64,4 @@ draft: false
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
+{{< video src="tde.mp4" controls="yes" >}}
