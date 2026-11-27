@@ -59,3 +59,6 @@ status: published
 
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
+{{< video src="oj287a.mp4" controls="yes" >}}
+
+{{< video src="oj287b.mp4" controls="yes" >}}
