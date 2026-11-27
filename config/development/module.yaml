@@ -1,0 +1,2 @@
+# Use a reachable module proxy for local Hugo development.
+proxy: https://goproxy.cn
